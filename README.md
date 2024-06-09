@@ -44,7 +44,7 @@ The **30 Days of Code** challenge is designed to help you improve your coding sk
 ### Day 0: Hello, World
 **Objective:** Practice printing to stdout.
 
-**Solution:** [Day0.java](path/to/solution)
+**Solution:** [Day0.java](src/HelloWorld.java)
 
 ### Day 1: Data Types
 **Objective:** Familiarize with different data types.
