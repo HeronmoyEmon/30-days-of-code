@@ -49,7 +49,7 @@ The **30 Days of Code** challenge is designed to help you improve your coding sk
 ### Day 1: Data Types
 **Objective:** Familiarize with different data types.
 
-**Solution:** [Day1.java](path/to/solution)
+**Solution:** [DataTypes.java](src/DataTypes.java)
 
 ### Day 2: Operators
 **Objective:** Learn about arithmetic operators.
