@@ -54,7 +54,7 @@ The **30 Days of Code** challenge is designed to help you improve your coding sk
 ### Day 2: Operators
 **Objective:** Learn about arithmetic operators.
 
-**Solution:** [Day2.java](path/to/solution)
+**Solution:** [Day2.java](src/Operators.java)
 
 ### Day 3: Conditional Statements
 **Objective:** Practice using conditional statements.
