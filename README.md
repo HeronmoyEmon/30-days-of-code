@@ -59,7 +59,7 @@ The **30 Days of Code** challenge is designed to help you improve your coding sk
 ### Day 3: Conditional Statements
 **Objective:** Practice using conditional statements.
 
-**Solution:** [Day3.java](path/to/solution)
+**Solution:** [ConditionalStatements.java](src/ConditionalStatements.java)
 
 ### Day 4: Class vs. Instance
 **Objective:** Understand class and instance variables.
