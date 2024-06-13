@@ -64,7 +64,7 @@ The **30 Days of Code** challenge is designed to help you improve your coding sk
 ### Day 4: Class vs. Instance
 **Objective:** Understand class and instance variables.
 
-**Solution:** [Day4.java](path/to/solution)
+**Solution:** [ClassVsInstance.java](src/Person.java)
 
 ### Day 5: Loops
 **Objective:** Practice using loops.
