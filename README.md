@@ -69,7 +69,7 @@ The **30 Days of Code** challenge is designed to help you improve your coding sk
 ### Day 5: Loops
 **Objective:** Practice using loops.
 
-**Solution:** [Day5.java](path/to/solution)
+**Solution:** [Loops.java](src/Loops.java)
 
 ### Day 6: Let's Review
 **Objective:** Practice string manipulation.
