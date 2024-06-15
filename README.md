@@ -74,7 +74,7 @@ The **30 Days of Code** challenge is designed to help you improve your coding sk
 ### Day 6: Let's Review
 **Objective:** Practice string manipulation.
 
-**Solution:** [Day6.java](path/to/solution)
+**Solution:** [LetsReview.java](src/LetsReview.java)
 
 ### Day 7: Arrays
 **Objective:** Learn about arrays.
