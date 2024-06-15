@@ -79,7 +79,7 @@ The **30 Days of Code** challenge is designed to help you improve your coding sk
 ### Day 7: Arrays
 **Objective:** Learn about arrays.
 
-**Solution:** [Day7.java](path/to/solution)
+**Solution:** [Arrays.java](src/Arrays.java)
 
 ### Day 8: Dictionaries and Maps
 **Objective:** Practice using dictionaries and maps.
