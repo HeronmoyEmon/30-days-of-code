@@ -42,7 +42,6 @@ public class DictionariesAndMaps {
             }
         }
         scanner.close();
-
     }
 
 }
