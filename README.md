@@ -84,7 +84,7 @@ The **30 Days of Code** challenge is designed to help you improve your coding sk
 ### Day 8: Dictionaries and Maps
 **Objective:** Practice using dictionaries and maps.
 
-**Solution:** [Day8.java](path/to/solution)
+**Solution:** [DictionariesAndMaps.java](src/DictionariesAndMaps.java)
 
 ### Day 9: Recursion
 **Objective:** Understand and implement recursion.
